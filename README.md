@@ -10,7 +10,7 @@ Camera Effects
 
 This is my Camera Effects Project.
 
-![picture_title](https://github.com/daisypatricio/daisypatricio.github.io/blob/master/Daisy%20Patricio.PNG?raw=true "Optional Title")
+![Daisy Patricio](https://github.com/daisypatricio/daisypatricio.github.io/blob/master/Daisy%20Patricio.PNG?raw=true "Optional Title")
 
 
 ***
